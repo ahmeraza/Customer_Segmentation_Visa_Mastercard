@@ -45,7 +45,7 @@ An **AI-augmented customer analytics project** that segments 10,127 Visa & Maste
 ![PCA clusters](images/fig4_pca_clusters.png)
 
 ### Cluster Validation — Three-Metric K Selection
-![Cluster validation](images/fig3_cluster_validation.png)
+![Cluster validation](images/fig_cluster_validation.png)
 
 ### AI-Generated Segment Intelligence Dashboard
 ![Segment intelligence](images/fig8_segment_intelligence.png)
