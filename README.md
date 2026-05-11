@@ -194,15 +194,6 @@ pip install pandas numpy scikit-learn matplotlib seaborn openai joblib
 
 ---
 
-## 👥 Contributors
-
-| Contributor | Role |
-|---|---|
-| **Ahmed Raza** | Analysis, domain expertise, fintech framing |
-| **[Claude](https://claude.ai) (Anthropic)** | Pipeline architecture, LLM integration layer, code review |
-
----
-
 ## 📄 License
 
 MIT — free to use, modify, and distribute with attribution.
